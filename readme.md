@@ -16,11 +16,10 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I was interested in using Netflix data made available from kaggle to better understand the content distribution of netflix:
 
 1. What is the type of content available on netflix ?
-2. What is the distribution of Netflix content along specific ratings
-3. What are the major production sources for the netflix Content
-4. What specific year content were released on Netflix
-5. What specific years did netflix made more content available
-6. What specific categories of content are present and which categories saw the relatively larger proportional increase ?
+2. What specific age group is netflix targeting
+3. What specific categories of content is being produced more often?
+4. Is Netflix Adding more TV content over the years?
+
 
 The full set of data used for this project is available on kaggle and is made available for public use.
 
