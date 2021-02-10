@@ -37,4 +37,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to the kaggle community as well as specifically mention Shivam Bansai, Dhruv Gangwani and AndresHG whose specific framework made it easier to create helpful visulations. The data of the project is available at https://www.kaggle.com/shivamb/netflix-shows
+Must give credit to the kaggle community as well as specifically mention Shivam B, Dhruv G and AndresHG. The data of the project is available at https://www.kaggle.com/shivamb/netflix-shows
