@@ -32,9 +32,9 @@ All the analysis has been made available in a single file that has been prepared
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@muhammadmubashirmahmood/has-netflix-been-adding-more-tv-content-over-the-years-6227a6dac8f4).
 
-More findings will be posted by the user of this fork project and they are to be followed
+
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
